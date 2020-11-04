@@ -1,0 +1,64 @@
+﻿  sample.cpp
+D:\CS450\Lighting-\sample.cpp(233,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\CS450\Lighting-\loadobj.h(128,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CS450\Lighting-\loadobj.h(131,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CS450\Lighting-\loadobj.h(134,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CS450\Lighting-\loadobj.h(152,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CS450\Lighting-\loadobj.h(155,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CS450\Lighting-\loadobj.h(158,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CS450\Lighting-\loadobj.h(171,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CS450\Lighting-\loadobj.h(175,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CS450\Lighting-\loadobj.h(179,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CS450\Lighting-\loadobj.h(364,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CS450\Lighting-\loadobj.h(384,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CS450\Lighting-\sphere.h(57,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CS450\Lighting-\sphere.h(58,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CS450\Lighting-\sphere.h(59,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CS450\Lighting-\sphere.h(62,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CS450\Lighting-\sphere.h(63,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CS450\Lighting-\sphere.h(64,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CS450\Lighting-\sphere.h(72,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CS450\Lighting-\sphere.h(73,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CS450\Lighting-\sample.cpp(311,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\CS450\Lighting-\sample.cpp(507,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\CS450\Lighting-\sample.cpp(507,35): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\CS450\Lighting-\sample.cpp(508,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\CS450\Lighting-\sample.cpp(509,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\CS450\Lighting-\sample.cpp(517,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\CS450\Lighting-\sample.cpp(517,36): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\CS450\Lighting-\sample.cpp(518,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\CS450\Lighting-\sample.cpp(525,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\CS450\Lighting-\sample.cpp(525,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\CS450\Lighting-\sample.cpp(526,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\CS450\Lighting-\sample.cpp(533,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\CS450\Lighting-\sample.cpp(533,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\CS450\Lighting-\sample.cpp(534,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\CS450\Lighting-\sample.cpp(537,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\CS450\Lighting-\sample.cpp(547,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\CS450\Lighting-\sample.cpp(548,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CS450\Lighting-\sample.cpp(550,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\CS450\Lighting-\sample.cpp(556,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\CS450\Lighting-\sample.cpp(556,35): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\CS450\Lighting-\sample.cpp(558,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\CS450\Lighting-\sample.cpp(558,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CS450\Lighting-\sample.cpp(560,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\CS450\Lighting-\sample.cpp(566,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\CS450\Lighting-\sample.cpp(570,50): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\CS450\Lighting-\sample.cpp(579,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\CS450\Lighting-\sample.cpp(579,32): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\CS450\Lighting-\sample.cpp(582,51): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\CS450\Lighting-\sample.cpp(591,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\CS450\Lighting-\sample.cpp(592,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\CS450\Lighting-\sample.cpp(603,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\CS450\Lighting-\sample.cpp(604,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\CS450\Lighting-\sample.cpp(604,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CS450\Lighting-\sample.cpp(607,63): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\CS450\Lighting-\sample.cpp(616,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\CS450\Lighting-\sample.cpp(616,35): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\CS450\Lighting-\sample.cpp(618,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\CS450\Lighting-\sample.cpp(618,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CS450\Lighting-\sample.cpp(620,54): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\CS450\Lighting-\sample.cpp(934,42): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\CS450\Lighting-\sample.cpp(1040,24): warning C4305: 'argument': truncation from 'double' to 'float'
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> D:\CS450\Lighting-\.\Debug\Sample.exe
